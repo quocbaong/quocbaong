@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/quốc-bảo-nguyễn-343606233/" target="_blank">
+  <a href="https://www.linkedin.com/in/ngquocbao-dev106/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://www.facebook.com/qbao.henry" target="_blank">
