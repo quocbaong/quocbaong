@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bảo</h1>
 <h3 align="center">🚀 A passionate student aspiring to become a Software Developer</h3>
 
+
 ---
 
 ### 👨‍🎓 About Me
