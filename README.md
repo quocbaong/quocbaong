@@ -7,12 +7,12 @@
   
   <h3 style="color:#888;">🚀 Aspiring Full Stack Developer | Passionate Problem Solver | Tech Enthusiast</h3>
   
-  <p>
-    <a href="https://github.com/quocbaong">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00DC82&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;Spring+Boot+%26+React+Enthusiast;Always+Learning+%26+Growing;Building+Awesome+Projects" alt="Typing SVG">
-    </a>
-  </p>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUP7IV6Y0dJXjyP6/giphy.gif" />
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" height="200" alt="Developer" />
+  </picture>
+  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=quocbaong&label=Profile%20Views&color=00DC82&style=flat-square" alt="Profile Views">
     &nbsp;&nbsp;
@@ -22,6 +22,8 @@
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-brightgreen?style=flat-square" alt="Status">
   </p>
+  
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%" />
 </div>
 
 ---
@@ -40,7 +42,7 @@
 - 📬 Always ready to connect and collaborate on exciting projects
 - 📧 Reach me at **nbao76296@gmail.com**
 
-<br><br>
+<br>
 
 ---
 
@@ -194,17 +196,17 @@
 
 > "Code is like humor. When you have to explain it, it's bad." — *Cory House*
 
----
-
-## 🎁 Fun Fact
-
-⚡ I love debugging and turning **"Why doesn't it work?"** into **"It works perfectly!"** 😄
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUP7IV6Y0dJXjyP6/giphy.gif" width="200" alt="Coding Fun">
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%" />
 
----
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" loading="lazy" />
+  </picture>
+
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%" />
+</div>
 
 <div align="center">
   <h2>✨ Thank You for Visiting My Profile! ✨</h2>
@@ -213,9 +215,23 @@
     <strong>Feel free to explore my repositories and reach out for collaboration! 🚀</strong>
   </p>
   
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%" />
+
+  <!-- Snake animation with dark/light mode support -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/quocbaong/quocbaong/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/quocbaong/quocbaong/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/quocbaong/quocbaong/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  </picture>
+
+  <!-- 3D contribution profile -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-stats.vercel.app/api?username=quocbaong&theme=gruvbox" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-stats.vercel.app/api?username=quocbaong&theme=default" />
+    <img src="https://github-contribution-stats.vercel.app/api?username=quocbaong&theme=gruvbox" alt="3D Contribution" width="100%" />
+  </picture>
+  
   <p>
     <img src="https://komarev.com/ghpvc/?username=quocbaong&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
   </p>
-  
-  <img src="https://github.com/quocbaong/quocbaong/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 </div>
