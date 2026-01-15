@@ -159,30 +159,6 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 
 ---
 
-## 🎓 Education & Learning
-
-<div align="center">
-
-### Current Learning Path
-
-| Phase | Focus | Status |
-|:---:|:---:|:---:|
-| **Foundation** | Spring Boot, React, Docker | ✅ Progressing |
-| **Advanced** | Microservices, Kubernetes | 🚀 Next Level |
-| **Professional** | System Design, Leadership | 📚 Future Goal |
-
-### Key Learning Goals
-- 🎯 Master Spring Boot for enterprise applications
-- ⚡ Become proficient in React and modern frontend frameworks
-- 🐳 Deep dive into Docker and containerization
-- 🔐 Build secure and scalable applications
-- 📖 Learn TypeScript for better type safety
-- 🧪 Write comprehensive unit and integration tests
-
-</div>
-
----
-
 ## 📚 My Expertise
 
 <div align="center">
@@ -200,70 +176,58 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 
 ---
 
-## 💡 Insights & Interests
-
-<div align="center">
-
-> "Write code that humans can understand. The computer will follow." — Refactoring expert
-
-### What I'm Passionate About
-
-- 🏗️ Building scalable and maintainable applications
-- 🧩 Solving complex problems with elegant solutions
-- 📖 Writing clean, readable, and well-documented code
-- 🌱 Continuous learning and self-improvement
-- 🤝 Collaborating with talented developers
-- 💻 Open-source contribution
-
-</div>
-
----
-
 ## 🎯 Career Roadmap
 
 <div align="center">
 
-```
-2024-2025          2025-2026          2026+
-   │                   │                 │
-   ├─ Spring Boot      ├─ Microservices ├─ Senior Developer
-   ├─ React           ├─ Kubernetes    ├─ Tech Lead
-   ├─ Docker          ├─ System Design ├─ Mentorship
-   └─ Production      └─ Performance   └─ Innovation
-```
+### My Development Journey
 
-### 2024-2025: Foundation Phase
-- Master Spring Boot and React
-- Build production-ready applications
-- Contribute to open-source projects
+<table>
+<tr>
+<td align="center"><strong>📚 Foundation</strong><br>2024-2025</td>
+<td align="center">→</td>
+<td align="center"><strong>🚀 Advanced</strong><br>2025-2026</td>
+<td align="center">→</td>
+<td align="center"><strong>⭐ Leadership</strong><br>2026+</td>
+</tr>
+</table>
 
-### 2025-2026: Advanced Phase
-- Learn Docker and Kubernetes
-- Master microservices architecture
-- Develop system design skills
+#### Phase 1: Foundation (2024-2025)
+| Goal | Description |
+|:---:|:---|
+| 🎓 **Spring Boot Mastery** | Build enterprise-grade backend applications |
+| ⚛️ **React Expertise** | Master modern frontend frameworks |
+| 🐳 **Docker & Containerization** | Deploy applications efficiently |
+| 📦 **Production Ready** | Ship quality code to production |
+| 🌱 **Open Source** | Contribute to community projects |
 
-### 2026+: Leadership Phase
-- Become a Senior Full Stack Developer
-- Lead development teams
-- Create impactful technology solutions
+#### Phase 2: Advanced (2025-2026)
+| Goal | Description |
+|:---:|:---|
+| 🏗️ **Microservices** | Design scalable distributed systems |
+| ☸️ **Kubernetes** | Orchestrate containerized applications |
+| 🔍 **System Design** | Build high-performance solutions |
+| 📊 **Performance Optimization** | Optimize code and infrastructure |
+| 🤝 **Team Collaboration** | Lead technical discussions |
+
+#### Phase 3: Leadership (2026+)
+| Goal | Description |
+|:---:|:---|
+| 👨‍💼 **Senior Developer** | Technical expertise & mentorship |
+| 🎯 **Tech Lead** | Guide teams & architecture decisions |
+| 📈 **Innovation** | Create impactful technologies |
+| 🌍 **Community Impact** | Share knowledge & give back |
+| 💼 **Strategic Growth** | Shape organizational vision |
 
 </div>
 
 ---
 
-## 🌟 Featured Sections
+## 🌟 Developer Inspiration
 
 <div align="center">
 
-### Coding Statistics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" />
-  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" />
-  <img src="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" alt="Tech Stack" width="100%" />
-</picture>
-
-### Developer Inspiration
+### Daily Motivation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -279,6 +243,8 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 
 ## 🚀 Tech Stack Showcase
 
+### Technologies I Use
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" />
   <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" />
@@ -289,60 +255,37 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 
 ---
 
-## 💬 Let's Talk About Code!
-
-<div align="center">
-
-I'm always interested in:
-- 💼 Collaborating on exciting projects
-- 🎓 Learning from experienced developers
-- 🌍 Contributing to open-source initiatives
-- 🤝 Building great software together
-
-**Feel free to reach out for collaboration, projects, or just to chat about technology!**
-
-</div>
-
 ---
 
 <div align="center">
 
-## 📍 Location & Contact
-
-**Based in:** Ho Chi Minh City, Vietnam 🇻🇳
-
-### Quick Links
-
-<a href="https://www.linkedin.com/in/ngquocbao-dev106/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;
-<a href="https://github.com/quocbaong" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>&nbsp;
-<a href="mailto:nbao76296@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>&nbsp;
-<a href="https://www.facebook.com/qbao.henry" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎉 Thanks for Visiting!
+## 🎉 Thanks for Visiting!
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=quocbaong&label=Total%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
 </p>
 
-**⭐ If you find my projects or this profile interesting, feel free to star them and follow for more updates!**
+### 📞 Get In Touch
+
+<a href="https://www.linkedin.com/in/ngquocbao-dev106/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;
+<a href="mailto:nbao76296@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>&nbsp;
+<a href="https://github.com/quocbaong" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+**⭐ If you find my projects interesting, please consider giving them a star!**
+
+---
 
 <p>
-  <em>Last updated: January 2026</em> | 
-  <em>Made with ❤️ by Nguyễn Quốc Bảo</em>
+  <em>Last updated: January 2026</em>
+</p>
+<p>
+  <em>Made with ❤️ by Nguyễn Quốc Bảo from Ho Chi Minh City, Vietnam 🇻🇳</em>
 </p>
 
 </div>
