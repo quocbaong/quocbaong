@@ -265,7 +265,41 @@
 
 <div align="center">
 
-## 🏆 Achievements & Highlights
+## 📊 Advanced Metrics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=tokyonight" alt="Stats" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=tokyonight" alt="Productive Time" width="48%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub-Dark.svg" alt="GitHub" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="60" height="60" />
+
+</div>
 
 | 🥇 Projects | 🎯 Skills | 🌟 Open Source | 💡 Passion |
 |:---:|:---:|:---:|:---:|
