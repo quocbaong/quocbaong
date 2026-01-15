@@ -239,6 +239,21 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 
 ---
 
+## 🚀 Tech Stack Showcase
+
+<div align="center">
+
+### Technologies I Use
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" />
+  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" />
+  <img src="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" alt="Tech Icons" width="100%" />
+</picture>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -270,13 +285,5 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 <p>
   <em>Made with ❤️ by Nguyễn Quốc Bảo from Ho Chi Minh City, Vietnam 🇻🇳</em>
 </p>
-
-</div>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" />
-  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" />
-  <img src="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" alt="Tech Icons" width="100%" />
-</picture>
 
 </div>
