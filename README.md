@@ -123,19 +123,21 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" loading="lazy">
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=quocbaong&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+        <img src="https://streak-stats.demolab.com/?user=quocbaong&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" loading="lazy">
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbaong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbaong&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" loading="lazy">
   
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=quocbaong&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=quocbaong&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" loading="lazy" width="100%">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" loading="lazy" width="100%">
 </div>
 
 ---
