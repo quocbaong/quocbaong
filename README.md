@@ -1,116 +1,58 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%20to%20my%20GitHub;Full%20Stack%20Developer;Spring%20Boot%20%26%20React%20Enthusiast;Always%20Learning!&center=true&size=27)](https://git.io/typing-svg)
+# 🚀 Welcome to My GitHub Profile
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full+Stack+Developer;Spring+Boot+%26+React+Enthusiast;Clean+Code+Advocate;Always+Learning+%26+Growing!&center=true&size=28)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUP7IV6Y0dJXjyP6/giphy.gif" />
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" height="200" alt="Developer" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" height="250" alt="Developer" />
 </picture>
 
-<div>&nbsp;</div>
+## 📬 Connect With Me
 
 <div>
-  <a href="https://www.linkedin.com/in/ngquocbao-dev106/"><img src="https://img.shields.io/badge/LinkedIn-Dev-blue" /></a>&emsp;
-  <a href="https://github.com/quocbaong"><img src="https://img.shields.io/badge/GitHub-Code-c32136" /></a>&emsp;
-  <a href="https://www.facebook.com/qbao.henry"><img src="https://img.shields.io/badge/Facebook-Profile-8c36db" /></a>&emsp;
-  <a href="https://www.instagram.com/quocbao.106/"><img src="https://img.shields.io/badge/Instagram-Follow-07c160" /></a>&emsp;
-  <a href="mailto:nbao76296@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-ff69b4" /></a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=quocbaong&label=Views&color=orange&style=flat" alt="Profile Views" />&emsp;
+  <a href="https://www.linkedin.com/in/ngquocbao-dev106/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/quocbaong" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/qbao.henry" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/quocbao.106/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="mailto:nbao76296@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/quocbaong/quocbaong/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/quocbaong/quocbaong/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/quocbaong/quocbaong/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-# 👋 About Me
-
-<table>
-<tr><td>
-
-### 🤺 Who Am I?
-
-<img align="right" width="88" src="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" />
-
-<p>&emsp;&emsp;Hi! I'm Nguyễn Quốc Bảo from Ho Chi Minh City. Passionate about coding, problem-solving, and technology.</p>
-<p>&emsp;&emsp;I love Computer Science and IT, aiming to become an excellent full-stack developer.</p>
-<p>&emsp;&emsp;I'm building elegant solutions through clean code and best practices.</p>
-<p>&emsp;&emsp;<strong>Making the world better, one line of code at a time! 💻</strong></p>
-
-</td></tr>
-
-<tr><td>
-
-### 📚 Current Learning
-
-<img align="right" width="88" src="https://media.giphy.com/media/qgQUP7IV6Y0dJXjyP6/giphy.gif" />
-
-- 🎓 Student at **Industrial University of Ho Chi Minh City (IUH)**
-- 🚀 Mastering **Spring Boot**, **React**, and **Docker**
-- 💡 Deepening knowledge in **Microservices** architecture
-- 🔐 Exploring **Authentication & Security**
-- 📖 Learning **TypeScript** for better type safety
-- 🐳 Diving into **Kubernetes** and containerization
-- 🧪 Improving **Unit Testing** & **Integration Testing** skills
-
-</td></tr>
-
-</table>
-
----
-
-## 🎯 Technical Skills & Languages
-
-<div align="center">
-
-### 💻 Programming Languages
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-
-### 🖥️ Frontend Technologies
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-
-### ⚙️ Backend Technologies
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![Express Badge](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=flat)
-![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=fff&style=flat)
-
-### 🗄️ Databases
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-
-### 🛠️ Tools & DevOps
-![Git Badge](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-
-### 💡 Development Tools
-![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,react,nodejs,spring,mysql,mongodb,git,docker,vscode,figma,linux" /><br>
+<img src="https://komarev.com/ghpvc/?username=quocbaong&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
 <div align="center">
+
+## 👨‍💻 About Me
+
+I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi Minh City, Vietnam. I love building scalable applications, writing clean code, and solving complex problems. Currently, I'm focused on mastering modern technologies like **Spring Boot**, **React**, and **Docker**.
+
+**💡 Philosophy:** *"Elegance over complexity, quality over quantity"*
+
+</div>
+
+---
 
 ## 📊 GitHub Statistics
+
+<div align="center">
+
+### Streak & Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=quocbaong&theme=tokyonight&hide_border=true" />
@@ -118,29 +60,65 @@
   <img src="https://streak-stats.demolab.com/?user=quocbaong&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </picture>
 
-<br>
+### Overall Stats & Top Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 </picture>
-
-<br>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=quocbaong&layout=pie&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=quocbaong&layout=pie&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbaong&layout=pie&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=quocbaong&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=quocbaong&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbaong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </picture>
 
 </div>
 
 ---
 
+## 🎯 Technical Skills & Technologies
+
 <div align="center">
 
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
 ## 📈 Contribution Metrics
+
+<div align="center">
+
+### Activity Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quocbaong&theme=tokyo-night&hide_border=true&area=true" />
@@ -148,21 +126,144 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quocbaong&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </picture>
 
-<br>
+### GitHub Profile Summary
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=tokyonight&no-frame=true&row=1&column=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=flat&no-frame=true&row=1&column=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=tokyonight" alt="Dashboard" width="100%" />
+</picture>
+
+### Statistics & Productivity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=tokyonight" alt="Stats" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=tokyonight" alt="Productivity" width="48%" />
+</picture>
+
+### Achievements
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=flat&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" width="100%" />
 </picture>
 
 </div>
 
 ---
 
+## 🎓 Education & Learning
+
 <div align="center">
 
-## 💭 Random Developer Quote
+### Current Learning Path
+
+| Phase | Focus | Status |
+|:---:|:---:|:---:|
+| **Foundation** | Spring Boot, React, Docker | ✅ Progressing |
+| **Advanced** | Microservices, Kubernetes | 🚀 Next Level |
+| **Professional** | System Design, Leadership | 📚 Future Goal |
+
+### Key Learning Goals
+- 🎯 Master Spring Boot for enterprise applications
+- ⚡ Become proficient in React and modern frontend frameworks
+- 🐳 Deep dive into Docker and containerization
+- 🔐 Build secure and scalable applications
+- 📖 Learn TypeScript for better type safety
+- 🧪 Write comprehensive unit and integration tests
+
+</div>
+
+---
+
+## 📚 My Expertise
+
+<div align="center">
+
+| Category | Skills |
+|:---:|:---|
+| **Languages** | Java, JavaScript, TypeScript, Python, C++ |
+| **Frontend** | React, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Spring Boot, Node.js, Express.js |
+| **Databases** | MySQL, MongoDB |
+| **DevOps** | Docker, Git, GitHub, Linux |
+| **Soft Skills** | Problem-solving, Clean Code, Communication |
+
+</div>
+
+---
+
+## 💡 Insights & Interests
+
+<div align="center">
+
+> "Write code that humans can understand. The computer will follow." — Refactoring expert
+
+### What I'm Passionate About
+
+- 🏗️ Building scalable and maintainable applications
+- 🧩 Solving complex problems with elegant solutions
+- 📖 Writing clean, readable, and well-documented code
+- 🌱 Continuous learning and self-improvement
+- 🤝 Collaborating with talented developers
+- 💻 Open-source contribution
+
+</div>
+
+---
+
+## 🎯 Career Roadmap
+
+<div align="center">
+
+```
+2024-2025          2025-2026          2026+
+   │                   │                 │
+   ├─ Spring Boot      ├─ Microservices ├─ Senior Developer
+   ├─ React           ├─ Kubernetes    ├─ Tech Lead
+   ├─ Docker          ├─ System Design ├─ Mentorship
+   └─ Production      └─ Performance   └─ Innovation
+```
+
+### 2024-2025: Foundation Phase
+- Master Spring Boot and React
+- Build production-ready applications
+- Contribute to open-source projects
+
+### 2025-2026: Advanced Phase
+- Learn Docker and Kubernetes
+- Master microservices architecture
+- Develop system design skills
+
+### 2026+: Leadership Phase
+- Become a Senior Full Stack Developer
+- Lead development teams
+- Create impactful technology solutions
+
+</div>
+
+---
+
+## 🌟 Featured Sections
+
+<div align="center">
+
+### Coding Statistics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" />
+  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" />
+  <img src="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" alt="Tech Stack" width="100%" />
+</picture>
+
+### Developer Inspiration
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -174,112 +275,9 @@
 
 ---
 
-## 🎯 My Goals & Roadmap
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <strong>2024-2025</strong><br>
-        Master Spring Boot & React<br>
-        Build production-ready apps
-      </td>
-      <td width="50%">
-        <strong>2025-2026</strong><br>
-        Learn Docker & Kubernetes<br>
-        Master microservices architecture
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <strong>2026+</strong><br>
-        Become a Senior Full Stack Developer<br>
-        Lead development teams
-      </td>
-      <td width="50%">
-        <strong>Career Goal</strong><br>
-        Create impactful technology solutions<br>
-        Contribute to open-source projects
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <div align="center">
 
-## 📈 GitHub Metrics Dashboard
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=tokyonight" alt="Dashboard" width="100%" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quocbaong&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quocbaong&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quocbaong&theme=tokyonight" alt="Languages" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quocbaong&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quocbaong&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quocbaong&theme=tokyonight" alt="Commits" width="48%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Advanced Metrics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=tokyonight" alt="Stats" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=tokyonight" alt="Productive Time" width="48%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" />
-  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" />
-  <img src="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" alt="Tech Stack" width="100%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-| 🥇 Projects | 🎯 Skills | 🌟 Open Source | 💡 Passion |
-|:---:|:---:|:---:|:---:|
-| 10+ Projects | Full Stack Dev | Active Contributor | Problem Solver |
-| Web & Mobile | API Design | Team Player | Code Quality |
-| Database Design | Clean Code | Knowledge Sharing | Debugging Ninja |
-
-</div>
-
----
-
-<div align="center">
+## 🚀 Tech Stack Showcase
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" />
@@ -291,25 +289,41 @@
 
 ---
 
+## 💬 Let's Talk About Code!
+
 <div align="center">
 
-## 💼 Let's Connect!
+I'm always interested in:
+- 💼 Collaborating on exciting projects
+- 🎓 Learning from experienced developers
+- 🌍 Contributing to open-source initiatives
+- 🤝 Building great software together
 
-<p>
-  <strong>Feel free to reach out for collaboration, projects, or just to chat about tech!</strong>
-</p>
+**Feel free to reach out for collaboration, projects, or just to chat about technology!**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📍 Location & Contact
+
+**Based in:** Ho Chi Minh City, Vietnam 🇻🇳
+
+### Quick Links
 
 <a href="https://www.linkedin.com/in/ngquocbao-dev106/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;
 <a href="https://github.com/quocbaong" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>&nbsp;
 <a href="mailto:nbao76296@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Email-D14836?style=for-the-badge&logo=gmail" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>&nbsp;
 <a href="https://www.facebook.com/qbao.henry" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Message-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
 </div>
@@ -318,14 +332,17 @@
 
 <div align="center">
 
-<h2>✨ Thank You for Visiting! ✨</h2>
+### 🎉 Thanks for Visiting!
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=quocbaong&label=Total%20Views&color=0e75b6&style=flat-square" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=quocbaong&label=Total%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
 </p>
 
-<p><strong>Star my repositories if you find them useful! 🌟</strong></p>
+**⭐ If you find my projects or this profile interesting, feel free to star them and follow for more updates!**
 
-<p><em>Last updated: January 2026</em></p>
+<p>
+  <em>Last updated: January 2026</em> | 
+  <em>Made with ❤️ by Nguyễn Quốc Bảo</em>
+</p>
 
 </div>
