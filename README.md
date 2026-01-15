@@ -236,7 +236,6 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 </picture>
 
 </div>
----
 
 <div align="center">
 
