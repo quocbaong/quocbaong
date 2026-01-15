@@ -16,7 +16,6 @@
   <a href="https://www.facebook.com/qbao.henry"><img src="https://img.shields.io/badge/Facebook-Profile-8c36db" /></a>&emsp;
   <a href="https://www.instagram.com/quocbao.106/"><img src="https://img.shields.io/badge/Instagram-Follow-07c160" /></a>&emsp;
   <a href="mailto:nbao76296@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-ff69b4" /></a>&emsp;
-  <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=quocbaong&label=Views&color=orange&style=flat" alt="Profile Views" />&emsp;
 </div>
 
@@ -165,12 +164,12 @@
 
 ## 💭 Random Developer Quote
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</picture>
+
 </div>
 
 ---
@@ -204,34 +203,6 @@
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<div align="center">
-
-## 📊 WakaTime Statistics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.png" />
-  <img src="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.png" alt="WakaTime Languages" width="100%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 3D Contribution Metrics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="3D Metrics" width="100%" />
-</picture>
-
 </div>
 
 ---
@@ -294,6 +265,10 @@
 
 </div>
 
+---
+
+<div align="center">
+
 | 🥇 Projects | 🎯 Skills | 🌟 Open Source | 💡 Passion |
 |:---:|:---:|:---:|:---:|
 | 10+ Projects | Full Stack Dev | Active Contributor | Problem Solver |
@@ -338,6 +313,8 @@
 </a>
 
 </div>
+
+---
 
 <div align="center">
 
