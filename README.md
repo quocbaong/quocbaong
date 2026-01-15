@@ -286,18 +286,11 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub-Dark.svg" alt="GitHub" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="60" height="60" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" />
+  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" />
+  <img src="https://camo.githubusercontent.com/e5139d0d3c4e4d8837455fc53d8a22ad745f72ee9f361563871792856ec55455/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646434326261643865666661376162343464326633313234343134656531313036313161303434612e737667" alt="Tech Stack" width="100%" />
+</picture>
 
 </div>
 
