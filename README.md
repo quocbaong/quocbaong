@@ -109,8 +109,6 @@
 
 ---
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <div align="center">
 
 ## 📊 GitHub Statistics
@@ -140,8 +138,6 @@
 </div>
 
 ---
-
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
 
@@ -212,8 +208,6 @@
 
 ---
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <div align="center">
 
 ## 📊 WakaTime Statistics
@@ -241,8 +235,6 @@
 </div>
 
 ---
-
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
 
