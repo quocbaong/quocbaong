@@ -66,8 +66,6 @@
 
 ---
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 ## 🎯 Technical Skills & Languages
 
 <div align="center">
@@ -167,7 +165,7 @@
 
 ---
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<div align="center">
 
 ## 💭 Random Developer Quote
 
@@ -180,8 +178,6 @@
 </div>
 
 ---
-
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ## 🎯 My Goals & Roadmap
 
@@ -232,8 +228,6 @@
 
 ---
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <div align="center">
 
 ## 🏆 Achievements & Highlights
@@ -272,8 +266,6 @@
 </a>
 
 </div>
-
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
 
