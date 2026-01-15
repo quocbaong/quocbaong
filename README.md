@@ -213,9 +213,50 @@
 ## 📊 WakaTime Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.svg" />
-  <img src="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.svg" alt="WakaTime Languages" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.png" />
+  <img src="https://wakatime.com/share/@quocbaong/5f8f8c8e-8b8b-4b0b-8b0b-8b0b8b0b8b0b.png" alt="WakaTime Languages" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 3D Contribution Metrics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quocbaong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="3D Metrics" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Metrics Dashboard
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=tokyonight" alt="Dashboard" width="100%" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quocbaong&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quocbaong&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quocbaong&theme=tokyonight" alt="Languages" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quocbaong&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quocbaong&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quocbaong&theme=tokyonight" alt="Commits" width="48%" />
 </picture>
 
 </div>
