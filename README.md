@@ -2,13 +2,6 @@
 
 # 🚀 Welcome to My GitHub Profile
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full+Stack+Developer;Spring+Boot+%26+React+Enthusiast;Clean+Code+Advocate;Always+Learning+%26+Growing!&center=true&size=28)](https://git.io/typing-svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUP7IV6Y0dJXjyP6/giphy.gif" />
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" height="250" alt="Developer" />
-</picture>
 
 ## 📬 Connect With Me
 
