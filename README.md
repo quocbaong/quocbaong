@@ -2,6 +2,15 @@
 
 # 🚀 Welcome to My GitHub Profile
 
+## 👨‍💻 About Me
+
+I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi Minh City, Vietnam. I love building scalable applications, writing clean code, and solving complex problems. Currently, I'm focused on mastering modern technologies like **Spring Boot**, **React**, and **Docker**.
+
+**💡 Philosophy:** *"Elegance over complexity, quality over quantity"*
+
+</div>
+
+---
 
 ## 📬 Connect With Me
 
@@ -30,16 +39,6 @@
 ---
 
 <div align="center">
-
-## 👨‍💻 About Me
-
-I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi Minh City, Vietnam. I love building scalable applications, writing clean code, and solving complex problems. Currently, I'm focused on mastering modern technologies like **Spring Boot**, **React**, and **Docker**.
-
-**💡 Philosophy:** *"Elegance over complexity, quality over quantity"*
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
