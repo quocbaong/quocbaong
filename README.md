@@ -77,8 +77,6 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -100,54 +98,10 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
-
-## 📈 Contribution Metrics
-
-<div align="center">
-
-### Activity Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quocbaong&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quocbaong&theme=xcode&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quocbaong&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</picture>
-
-### GitHub Profile Summary
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocbaong&theme=tokyonight" alt="Dashboard" width="100%" />
-</picture>
-
-### Statistics & Productivity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocbaong&theme=tokyonight" alt="Stats" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocbaong&theme=tokyonight" alt="Productivity" width="48%" />
-</picture>
-
-### Achievements
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=tokyonight&no-frame=true&row=1&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=flat&no-frame=true&row=1&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=quocbaong&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" width="100%" />
-</picture>
-
-</div>
 
 ---
 
@@ -167,52 +121,6 @@ I'm **Nguyễn Quốc Bảo**, a passionate full-stack developer based in Ho Chi
 </div>
 
 ---
-
-## 🎯 Career Roadmap
-
-<div align="center">
-
-### My Development Journey
-
-<table>
-<tr>
-<td align="center"><strong>📚 Foundation</strong><br>2024-2025</td>
-<td align="center">→</td>
-<td align="center"><strong>🚀 Advanced</strong><br>2025-2026</td>
-<td align="center">→</td>
-<td align="center"><strong>⭐ Leadership</strong><br>2026+</td>
-</tr>
-</table>
-
-#### Phase 1: Foundation (2024-2025)
-| Goal | Description |
-|:---:|:---|
-| 🎓 **Spring Boot Mastery** | Build enterprise-grade backend applications |
-| ⚛️ **React Expertise** | Master modern frontend frameworks |
-| 🐳 **Docker & Containerization** | Deploy applications efficiently |
-| 📦 **Production Ready** | Ship quality code to production |
-| 🌱 **Open Source** | Contribute to community projects |
-
-#### Phase 2: Advanced (2025-2026)
-| Goal | Description |
-|:---:|:---|
-| 🏗️ **Microservices** | Design scalable distributed systems |
-| ☸️ **Kubernetes** | Orchestrate containerized applications |
-| 🔍 **System Design** | Build high-performance solutions |
-| 📊 **Performance Optimization** | Optimize code and infrastructure |
-| 🤝 **Team Collaboration** | Lead technical discussions |
-
-#### Phase 3: Leadership (2026+)
-| Goal | Description |
-|:---:|:---|
-| 👨‍💼 **Senior Developer** | Technical expertise & mentorship |
-| 🎯 **Tech Lead** | Guide teams & architecture decisions |
-| 📈 **Innovation** | Create impactful technologies |
-| 🌍 **Community Impact** | Share knowledge & give back |
-| 💼 **Strategic Growth** | Shape organizational vision |
-
-</div>
-
 ---
 
 ## 🌟 Developer Inspiration
